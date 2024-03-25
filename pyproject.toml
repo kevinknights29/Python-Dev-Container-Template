@@ -1,3 +1,13 @@
+[project]
+name = "python dev-container template"
+version = "0.2.0"
+authors = [
+  {name = "Kevin Knights", email = "kevin.k.knights@gmail.com"},
+]
+description = "This is a template for Python projects leveraging a Dev Container with VS Code."
+readme = "README.md"
+license = {file = "LICENSE"}
+
 [tool.ruff]
 # Exclude a variety of commonly ignored directories.
 exclude = [
@@ -48,3 +58,10 @@ per-file-ignores = { }
 [tool.ruff.lint.mccabe]
 # Unlike Flake8, default to a complexity level of 10.
 max-complexity = 10
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+tag_format = "$version"
+version_scheme = "semver"
+version_provider = "pep621"
+update_changelog_on_bump = true
