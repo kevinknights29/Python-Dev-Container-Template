@@ -2,6 +2,13 @@
 
 This is a template for Python projects leveraging a Dev Container with VS Code.
 
+## Checklist
+
+Remove once all items have been checked.
+
+- [ ] [Dev Container Name](.devcontainer/devcontainer.json) - Line 2
+- [ ] [Project Details](pyproject.toml) - Line 2-9
+
 ## Topics
 
 1. [Overview](#overview)
