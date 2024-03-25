@@ -1,3 +1,23 @@
+## 0.4.0 (2024-03-25)
+
+### Feat
+
+- added requirements file
+- added python test workflow
+- added github actions extension
+- added pytest as dep
+- added python entrypoint
+- added src module
+- added docs dir
+
+### Fix
+
+- removed test file path from pytest command
+
+### Refactor
+
+- added .ruff_cache/
+
 ## 0.3.0 (2024-03-25)
 
 ### Feat
