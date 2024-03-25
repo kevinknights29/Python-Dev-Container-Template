@@ -33,6 +33,10 @@ This should display a status bar like the example below:
 
 ![image](https://code.visualstudio.com/assets/docs/devcontainers/containers/dev-container-progress.png)
 
+The build process would look like the example below:
+
+![image](https://github.com/kevinknights29/Python-Dev-Container-Template/assets/74464814/fda40919-f4f8-4ec4-8a07-71c0fd185363)
+
 After the container starts successfully, you are ready to use and add features to the code.
 
 ## Resources
