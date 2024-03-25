@@ -10,12 +10,16 @@ It allows you to open any folder inside (or mounted into) a container and take a
 - [ ] Docker installed locally.
 - [ ] VS Code Dev Containers Extension.
 
-        Name: Dev Containers
-        Id: ms-vscode-remote.remote-containers
-        Description: Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
-        Version: 0.347.0
-        Publisher: Microsoft
-        VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+  - Name: Dev Containers
+  - Id: ms-vscode-remote.remote-containers
+  - Description: Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+  - Version: 0.347.0
+  - Publisher: Microsoft
+  - [VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+  Extension Image:
+  
+  ![image](https://github.com/kevinknights29/Python-Dev-Container-Template/assets/74464814/ab61365f-ce34-4804-96d1-ebacac052db9)
 
 For more, please refer to: [System Requirements](https://code.visualstudio.com/docs/devcontainers/containers#_system-requirements)
 
