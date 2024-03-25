@@ -34,5 +34,5 @@
         "--env-file",
         ".devcontainer/devcontainer.env"
     ],
-    "postStartCommand": ". /opt/app/.venv/bin/activate"
+    "postStartCommand": ". /opt/app/.venv/bin/activate && pre-commit install && pre-commit autoupdate && pre-commit run --all-files"
 }

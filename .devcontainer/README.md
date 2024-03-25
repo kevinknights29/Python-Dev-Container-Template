@@ -18,7 +18,7 @@ It allows you to open any folder inside (or mounted into) a container and take a
   - [VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
   Extension Image:
-  
+
   ![image](https://github.com/kevinknights29/Python-Dev-Container-Template/assets/74464814/ab61365f-ce34-4804-96d1-ebacac052db9)
 
 For more, please refer to: [System Requirements](https://code.visualstudio.com/docs/devcontainers/containers#_system-requirements)
