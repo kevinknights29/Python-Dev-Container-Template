@@ -34,3 +34,12 @@ This should display a status bar like the example below:
 ![image](https://code.visualstudio.com/assets/docs/devcontainers/containers/dev-container-progress.png)
 
 After the container starts successfully, you are ready to use and add features to the code.
+
+## Resources
+
+For a more in-depth guide, please refer to:
+
+- [Setting a Dockerized Python Development Environment Template
+](https://medium.com/@rami.krispin/setting-a-dockerized-python-development-environment-template-de2400c4812b)
+- [A Dockerized Python Development Environment Template
+](https://github.com/RamiKrispin/vscode-python-template?source=post_page-----de2400c4812b--------------------------------)
