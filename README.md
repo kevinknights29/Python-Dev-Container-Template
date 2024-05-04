@@ -16,8 +16,9 @@ Remove once all items have been checked.
 3. [Scope and Context](#scope-and-context)
 4. [System Design](#system-design)
 5. [Alternatives Considered](#alternatives-considered)
-6. [Learning Logs](#learning-logs)
-7. [Resources](#resources)
+6. [Cross-cutting Concerns](#cross-cutting-concerns)
+7. [Learning Logs](#learning-logs)
+8. [Resources](#resources)
 
 ---
 
@@ -31,6 +32,8 @@ Remove once all items have been checked.
 
 ## Alternatives Considered
 
+## Cross-cutting Concerns
+
 ## Learning Logs
 
 | Date | Learning |
@@ -38,3 +41,21 @@ Remove once all items have been checked.
 |      |          |
 
 ## Resources
+
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+
+---
+
+## Version Management
+
+To create a changelog, run:
+
+```bash
+cz changelog
+```
+
+And to bump the changelog version after performing modifications, run:
+
+```bash
+cz bump
+```
